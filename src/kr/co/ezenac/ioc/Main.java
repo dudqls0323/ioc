@@ -6,16 +6,9 @@ public class Main {
 
         String url = "https://spring.io/";
 
-        //Base64 encoding
-        IEncoder encoder = new Base64Encoder();
+        Encoder encoder = new Encoder();
         String result = encoder.encode(url);
-
-        //url encoding
-        IEncoder urlEncoder = new UrlEncoder();
-        String urlResult = urlEncoder.encode(url);
-
-        System.out.println("hello Spring!!");
-
         System.out.println(result);
+
     }
 }

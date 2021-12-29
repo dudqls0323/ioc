@@ -1,0 +1,9 @@
+<changelist name="Changes4" date="1640746334026" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Changes4/shelved.patch" />
+  <option name="DESCRIPTION" value="Changes" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="out/production/ioc/kr/co/ezenac/ioc/Base64Encoder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes4/Base64Encoder.class" />
+  </binary>
+</changelist>

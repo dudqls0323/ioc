@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2bf998d-75c9-4e0e-8d0e-83778b30d419" name="Changes" comment="깃허브 커밋">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="d2bf998d-75c9-4e0e-8d0e-83778b30d419" name="Changes" comment="has a 관계로 클래스 추가">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ioc/kr/co/ezenac/ioc/Encoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ioc/kr/co/ezenac/ioc/Encoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ioc/kr/co/ezenac/ioc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ioc/kr/co/ezenac/ioc/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kr/co/ezenac/ioc/Encoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kr/co/ezenac/ioc/Encoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kr/co/ezenac/ioc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kr/co/ezenac/ioc/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -40,6 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
